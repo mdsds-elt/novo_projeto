@@ -3,6 +3,5 @@ projeto pythons
 
 ```
 comando merge
-branch main
 
 ```
