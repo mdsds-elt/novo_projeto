@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 
 Este é um arquivo colaborativo
+=======
+>>>>>>> feature_b
